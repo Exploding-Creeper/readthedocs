@@ -1,0 +1,27 @@
+input: .
+output: .retype
+url: "https://docs.explodingcreeper.me/"
+branding:
+  title: Creeper
+  label: Docs
+links:
+  - text: Discord
+    link: https://discord.gg/tux5JvCHpF
+  - text: Website
+    link: https://explodingcreeper.me
+  - text: Github
+    link: https://github.com/Exploding-Creeper/
+footer:
+  copyright: "&copy; {{ year }} Exploding Creeper Group. All rights reserved."
+meta:
+  title: " | Exploding Creeper Docs"
+search:
+  placeholder: Search
+snippets:
+  lineNumbers:
+    - js
+    - json
+    - toml
+edit:
+  repo: "https://github.com/Exploding-Creeper/readthedocs"
+  branch: master
