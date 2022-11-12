@@ -1,20 +1,18 @@
 input: .
 output: .retype
-url: "https://docs.explodingcreeper.me/"
+url: docs.fdnetworks.org
 branding:
-  title: Creeper
+  title: FD Networks
   label: Docs
 links:
   - text: Discord
     link: https://discord.gg/tux5JvCHpF
-  - text: Website
-    link: https://explodingcreeper.me
   - text: Github
     link: https://github.com/Exploding-Creeper/
 footer:
   copyright: "&copy; {{ year }} Exploding Creeper Group. All rights reserved."
 meta:
-  title: " | Exploding Creeper Docs"
+  title: " | FD Networks Docs"
 search:
   placeholder: Search
 snippets:
